@@ -45,6 +45,5 @@ public class main {
             }
         }
         scanner.close();
-
     }
 }
